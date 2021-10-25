@@ -3,13 +3,13 @@ title: "About"
 url: "/about/"
 layout: "about"
 date: "2020-08-25"
-description: "About Navendu Pottekkat"
+description: "Dawnfrost"
 searchHidden: true
 ---
 
-I'm an Engineer working on Service Meshes, Deep Learning on Edge and Neuro-Memristive Systems.
+Halo aku adalah seorang WhatsApp Bot Creator, Baru saja mengenal programming saat bulan Agustus.
 
-I work part-time at [Layer5](https://layer5.io/), where we build Open-Source products to make Service Meshes available to everyone.
+Aku aktif setiap hari [Layer5](https://layer5.io/), where we build Open-Source products to make Service Meshes available to everyone.
 
 I’m a maintainer at [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) for the projects - Meshery and Service Mesh Performance.
 
@@ -36,10 +36,10 @@ He also organizes Meshery and SMP CNCF Community Groups.
 
 ### Socials
 
-* Email: [navendupottekkat@gmail.com](mailto:navendupottekkat@gmail.com)
-* Twitter: [sudo_navendu](https://twitter.com/sudo_navendu)
-* GitHub: [navendu-pottekkat](https://github.com/navendu-pottekkat)
-* LinkedIn: [navendup](https://www.linkedin.com/in/navendup/)
+* Email: [semangkamuda134@gmail.com](mailto: semangkamuda134@gmail.com)
+* Instagram: [Dawnfrost.ig](https://instagram.com/dawnfrost.ig?utm_medium=copy_link)
+* GitHub: [Dawnfrosty](https://github.com/Dawnfrosty)
+* YouTube: 
 
 
 ### Profile Images
