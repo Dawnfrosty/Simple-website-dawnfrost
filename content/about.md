@@ -9,7 +9,7 @@ searchHidden: true
 
 Halo aku adalah seorang WhatsApp Bot Creator, Baru saja mengenal programming saat bulan Agustus.
 
-Aku aktif setiap hari [Layer5](https://layer5.io/), where we build Open-Source products to make Service Meshes available to everyone.
+Aku aktif setiap hari [Layer5](https://layer5.io/), Disini, aku membuat sebuah program robot WhatsApp.
 
 I’m a maintainer at [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) for the projects - Meshery and Service Mesh Performance.
 
@@ -36,7 +36,7 @@ He also organizes Meshery and SMP CNCF Community Groups.
 
 ### Socials
 
-* Email: [semangkamuda134@gmail.com](mailto: semangkamuda134@gmail.com)
+* Email: [semangkamuda134@gmail.com](mailto:semangkamuda134@gmail.com)
 * Instagram: [Dawnfrost.ig](https://instagram.com/dawnfrost.ig?utm_medium=copy_link)
 * GitHub: [Dawnfrosty](https://github.com/Dawnfrosty)
 * YouTube: 
